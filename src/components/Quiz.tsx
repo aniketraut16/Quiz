@@ -157,7 +157,7 @@ export default function Quiz() {
     };
 
     return (
-        <div className="bg-white rounded-lg shadow-lg overflow-hidden transition-all">
+        <div className="bg-white shadow-lg overflow-hidden transition-all">
             {state.currentScreen === "dataGathering" && (
                 <DataGatheringScreen onStart={handleStartQuiz} />
             )}
