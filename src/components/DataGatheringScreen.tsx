@@ -20,13 +20,19 @@ export default function DataGatheringScreen({ onStart }: DataGatheringScreenProp
         const fetchCategories = async () => {
             try {
                 setIsLoading(true);
-                const response = await fetch("https://the-trivia-api.com/v2/categories");
 
-                if (!response.ok) {
-                    throw new Error("Failed to fetch categories");
-                }
-
-                const data = await response.json();
+                const data = [
+                    "arts_and_literature",
+                    "film_and_tv",
+                    "food_and_drink",
+                    "general_knowledge",
+                    "geography",
+                    "history",
+                    "music",
+                    "science",
+                    "society_and_culture",
+                    "sport_and_leisure"
+                ];
 
                 // Convert the category object into an array of categories
                 const categoryArray = Object.entries(data).map(([id, name]) => ({
@@ -142,7 +148,7 @@ export default function DataGatheringScreen({ onStart }: DataGatheringScreenProp
                         >
                             <option value="any">Any Topic</option>
                             {categories.map((cat) => (
-                                <option key={cat.id} value={cat.id}>
+                                <option key={cat.id} value={cat.name}>
                                     {cat.name}
                                 </option>
                             ))}
