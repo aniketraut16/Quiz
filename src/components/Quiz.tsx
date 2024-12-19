@@ -4,6 +4,7 @@ import { useState } from "react";
 import DataGatheringScreen from "@/components/DataGatheringScreen";
 import QuizScreen from "@/components/QuizScreen";
 import ResultsScreen from "@/components/ResultsScreen";
+import getQuestions from "@/utility/questions";
 
 type QuizState = {
     currentScreen: "dataGathering" | "quiz" | "results";
@@ -55,18 +56,7 @@ export default function Quiz() {
                 category,
                 currentScreen: "quiz",
             });
-
-            // Fetch questions based on user preferences
-            const response = await fetch(
-                `https://the-trivia-api.com/v2/questions?limit=${numberOfQuestions}${category !== "any" ? `&categories=${category}` : ""
-                }`
-            );
-
-            if (!response.ok) {
-                throw new Error("Failed to fetch questions");
-            }
-
-            const data = await response.json();
+            const data = getQuestions(category, numberOfQuestions);
 
             // Process the questions to include all answers in a randomized array
             const processedQuestions = data.map((q: any) => {
