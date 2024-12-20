@@ -253,5 +253,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c397cc59eab6f950ecc",
+        "correctAnswer": "Haruki Murakami",
+        "incorrectAnswers": [
+            "Oscar Wilde",
+            "Umberto Eco",
+            "Søren Kierkegaard"
+        ],
+        "question": {
+            "text": "Which author wrote 'Kafka on the Shore'?"
+        },
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
