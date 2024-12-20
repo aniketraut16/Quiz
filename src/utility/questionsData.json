@@ -188,5 +188,28 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "64ce98407f0714b9a0ca5e68",
+        "correctAnswer": "Carrie",
+        "incorrectAnswers": [
+            "Annie",
+            "Megan",
+            "Emily"
+        ],
+        "question": {
+            "text": "In an early Stephen King novel, which titular character is a student at Ewen High?"
+        },
+        "tags": [
+            "novels",
+            "horror",
+            "arts_and_literature",
+            "literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
