@@ -379,5 +379,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c397cc59eab6f950f75",
+        "correctAnswer": "Stephen King",
+        "incorrectAnswers": [
+            "H. P. Lovecraft",
+            "Edgar Allan Poe",
+            "Jack Vance"
+        ],
+        "question": {
+            "text": "Which author wrote 'Skeleton Crew'?"
+        },
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
