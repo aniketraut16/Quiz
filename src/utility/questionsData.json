@@ -59,5 +59,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c367cc59eab6f950185",
+        "correctAnswer": "Earnshaw",
+        "incorrectAnswers": [
+            "Heathcliffe",
+            "Darcy",
+            "Bingby"
+        ],
+        "question": {
+            "text": "What is the surname of Cathy in \"Wuthering Heights\"?"
+        },
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
