@@ -79,5 +79,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c347cc59eab6f94f975",
+        "correctAnswer": "The Stranger",
+        "incorrectAnswers": [
+            "One Hundred Years of Solitude",
+            "The Trial",
+            "The Quiet American"
+        ],
+        "question": {
+            "text": "Which book contains the character 'Meursault'?"
+        },
+        "tags": [
+            "film",
+            "fictitious_characters",
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
