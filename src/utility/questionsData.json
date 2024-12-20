@@ -399,5 +399,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c397cc59eab6f950ef9",
+        "correctAnswer": "Ursula K. Le Guin",
+        "incorrectAnswers": [
+            "Stephen King",
+            "Jack Vance",
+            "George R. R. Martin"
+        ],
+        "question": {
+            "text": "Which author wrote 'The Dispossessed'?"
+        },
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
