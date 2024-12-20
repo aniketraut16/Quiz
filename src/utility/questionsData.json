@@ -165,5 +165,28 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c347cc59eab6f94f997",
+        "correctAnswer": "Ulysses",
+        "incorrectAnswers": [
+            "We Have Always Lived in the Castle",
+            "The Quiet American",
+            "The Sound and the Fury"
+        ],
+        "question": {
+            "text": "Which book contains the character 'Leopold Bloom'?"
+        },
+        "tags": [
+            "literature",
+            "classic_novels",
+            "fictitious_characters",
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
