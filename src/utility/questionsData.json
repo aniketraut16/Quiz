@@ -211,5 +211,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c347cc59eab6f94f97a",
+        "correctAnswer": "Master and Commander",
+        "incorrectAnswers": [
+            "Gone With the Wind",
+            "Heart of Darkness",
+            "The Thin Man"
+        ],
+        "question": {
+            "text": "Which book contains the character 'Stephen Maturin'?"
+        },
+        "tags": [
+            "film",
+            "fictitious_characters",
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
