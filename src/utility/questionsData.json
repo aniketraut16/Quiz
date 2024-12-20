@@ -273,5 +273,29 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c3a7cc59eab6f951333",
+        "correctAnswer": "Ebenezer Scrooge",
+        "incorrectAnswers": [
+            "Charles Dickens",
+            "Bob Cratchit",
+            "Uriah Heep"
+        ],
+        "question": {
+            "text": "What is the name of the miserly main character in A Christmas Carol?"
+        },
+        "tags": [
+            "literature",
+            "arts_and_literature",
+            "christmas",
+            "classic_novels",
+            "fictitious_characters"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
