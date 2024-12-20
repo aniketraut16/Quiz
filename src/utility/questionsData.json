@@ -101,5 +101,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "648891854cd3f064f443dc27",
+        "correctAnswer": "The Yellow Brick Road",
+        "incorrectAnswers": [
+            "The Red Brick Road",
+            "The Emerald Road",
+            "The Sapphire Road"
+        ],
+        "question": {
+            "text": "What did Dorothy and her friends walk down in The Wizard of Oz?"
+        },
+        "tags": [
+            "arts_and_literature",
+            "literature",
+            "childrens_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
