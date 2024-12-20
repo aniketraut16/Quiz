@@ -143,5 +143,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c347cc59eab6f94f965",
+        "correctAnswer": "Love in the Time of Cholera",
+        "incorrectAnswers": [
+            "Portnoy's Complaint",
+            "Pale Fire",
+            "Tinker"
+        ],
+        "question": {
+            "text": "Which book contains the character 'Florentino Ariza'?"
+        },
+        "tags": [
+            "fictitious_characters",
+            "literature",
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
