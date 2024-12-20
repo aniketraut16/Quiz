@@ -337,5 +337,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c397cc59eab6f950eaf",
+        "correctAnswer": "J. K. Rowling",
+        "incorrectAnswers": [
+            "Christopher Tolkien",
+            "Philip Pullman",
+            "C. S. Lewis"
+        ],
+        "question": {
+            "text": "Which author wrote 'Harry Potter and the Half-Blood Prince'?"
+        },
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
