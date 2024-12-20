@@ -357,5 +357,27 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c347cc59eab6f94fa06",
+        "correctAnswer": "Jean Auguste Dominique Ingres",
+        "incorrectAnswers": [
+            "Caravaggio",
+            "Jackson Pollock",
+            "El Greco"
+        ],
+        "question": {
+            "text": "Which artist painted \"The Grand Odalisque\""
+        },
+        "tags": [
+            "art",
+            "painting",
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
