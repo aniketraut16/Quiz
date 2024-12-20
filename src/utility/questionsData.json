@@ -123,5 +123,25 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c397cc59eab6f950f43",
+        "correctAnswer": "Edgar Allan Poe",
+        "incorrectAnswers": [
+            "Stephen King",
+            "Nathaniel Hawthorne",
+            "Mario Puzo"
+        ],
+        "question": {
+            "text": "Which author wrote 'Annabel Lee'?"
+        },
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
