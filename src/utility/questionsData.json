@@ -1,0 +1,22 @@
+[
+    {
+        "category": "arts_and_literature",
+        "id": "622a1c397cc59eab6f950f6b",
+        "correctAnswer": "Arthur Conan Doyle",
+        "incorrectAnswers": [
+            "Agatha Christie",
+            "Oscar Wilde",
+            "George Orwell"
+        ],
+        "question": {
+            "text": "Which author wrote 'The Return of Sherlock Holmes'?"
+        },
+        "tags": [
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    }
+]
