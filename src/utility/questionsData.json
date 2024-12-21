@@ -658,5 +658,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "625fd725dc0dd3b72da64d26",
+        "correctAnswer": "1996",
+        "incorrectAnswers": [
+            "1992",
+            "2000",
+            "2004"
+        ],
+        "question": {
+            "text": "In which year was Fargo first released in the cinema?"
+        },
+        "tags": [
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
