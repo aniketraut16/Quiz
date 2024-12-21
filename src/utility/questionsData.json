@@ -486,5 +486,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "625fd68adc0dd3b72da64cf8",
+        "correctAnswer": "1991",
+        "incorrectAnswers": [
+            "1987",
+            "1995",
+            "1999"
+        ],
+        "question": {
+            "text": "Terminator 2: Judgment Day was released in which year?"
+        },
+        "tags": [
+            "film",
+            "cult_films",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
