@@ -679,5 +679,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "63951e7de55fa75b149597b3",
+        "correctAnswer": "Severance",
+        "incorrectAnswers": [
+            "Squid Game",
+            "Split",
+            "Mr Robot"
+        ],
+        "question": {
+            "text": "Released in 2022, which TV show depicts a world where people undergo a procedure to split their mind into two so that they can enjoy life without work?"
+        },
+        "tags": [
+            "tv",
+            "2022",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
