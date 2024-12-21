@@ -786,5 +786,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "625740869da29df7b05f73e4",
+        "correctAnswer": "Kill Bill: Vol. 1",
+        "incorrectAnswers": [
+            "Million Dollar Baby",
+            "Unforgiven",
+            "Dead Poets Society"
+        ],
+        "question": {
+            "text": "Name the movie that matches the following plot summary: 'After awakening from a coma, a former assassin wreaks vengeance on those who betrayed her.'"
+        },
+        "tags": [
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
