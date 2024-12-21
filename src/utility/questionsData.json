@@ -615,5 +615,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "622a1c377cc59eab6f950693",
+        "correctAnswer": "Jamie Foxx",
+        "incorrectAnswers": [
+            "Hugo Weaving",
+            "Warwick Davis",
+            "Timothy Spall"
+        ],
+        "question": {
+            "text": "Which actor has starred in both The Amazing Spider-Man 2 and Django Unchained?"
+        },
+        "tags": [
+            "film_and_tv",
+            "film",
+            "acting"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
