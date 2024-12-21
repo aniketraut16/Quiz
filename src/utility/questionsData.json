@@ -419,5 +419,28 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "645c9f5342ea81e2554c5f05",
+        "correctAnswer": "The Truman Show",
+        "incorrectAnswers": [
+            "Eternal Sunshine of the Spotless Mind",
+            "Dead Poet's Society",
+            "The Shawshank Redemption"
+        ],
+        "question": {
+            "text": "Which movie features the quote 'Good morning! And in case I don't see you, good afternoon, good evening, and good night!'?"
+        },
+        "tags": [
+            "film",
+            "film_and_tv",
+            "quotes",
+            "film_quotes"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
