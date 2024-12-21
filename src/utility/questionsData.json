@@ -529,5 +529,28 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "624dba33de6018633d31f6ba",
+        "correctAnswer": "Sean Connery",
+        "incorrectAnswers": [
+            "Timothy Dalton",
+            "Daniel Craig",
+            "George Lazenby"
+        ],
+        "question": {
+            "text": "Who played the role of James Bond in You Only Live Twice?"
+        },
+        "tags": [
+            "james_bond",
+            "film",
+            "acting",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
