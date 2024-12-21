@@ -764,5 +764,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "622a1c377cc59eab6f9506ca",
+        "correctAnswer": "Seth Rogen",
+        "incorrectAnswers": [
+            "Russell Crowe",
+            "Jean-Claude Van Damme",
+            "Pierce Brosnan"
+        ],
+        "question": {
+            "text": "Which actor has featured in films including Arrested Development and Donnie Darko?"
+        },
+        "tags": [
+            "film",
+            "acting",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
