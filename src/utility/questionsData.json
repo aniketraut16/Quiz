@@ -828,5 +828,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "622a1c377cc59eab6f950630",
+        "correctAnswer": "Jennifer Connelly",
+        "incorrectAnswers": [
+            "Rachel Weisz",
+            "Frances Fisher",
+            "Salma Hayek"
+        ],
+        "question": {
+            "text": "Which actress has appeared in films including 'Requiem for a Dream' in 2000 and 'Hulk' in 2003?"
+        },
+        "tags": [
+            "film_and_tv",
+            "acting",
+            "film"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
