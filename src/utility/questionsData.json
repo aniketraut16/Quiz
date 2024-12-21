@@ -508,5 +508,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "6257406e9da29df7b05f73dd",
+        "correctAnswer": "No Country for Old Men",
+        "incorrectAnswers": [
+            "Hacksaw Ridge",
+            "Pulp Fiction",
+            "Aliens"
+        ],
+        "question": {
+            "text": "Name the movie that matches the following plot summary: 'Violence and mayhem ensue after a man stumbles upon more than two million dollars.'"
+        },
+        "tags": [
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
