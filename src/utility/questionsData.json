@@ -464,5 +464,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "622a1c347cc59eab6f94fc26",
+        "correctAnswer": "\"Plastics.\"",
+        "incorrectAnswers": [
+            "\"Hello, gorgeous.\"",
+            "\"Fasten your seatbelts. It's going to be a bumpy night.\"",
+            "\"We’re goin’ streaking!\""
+        ],
+        "question": {
+            "text": "Which of these quotes is from the film 'The Graduate'?"
+        },
+        "tags": [
+            "quotes",
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
