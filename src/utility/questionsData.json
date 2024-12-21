@@ -442,5 +442,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "622a1c347cc59eab6f94fbbe",
+        "correctAnswer": "\"What’s the most you ever lost on a coin toss?\"",
+        "incorrectAnswers": [
+            "\"My precious.\"",
+            "\"I'll be back.\"",
+            "\"Very nice!\""
+        ],
+        "question": {
+            "text": "Which of these quotes is from the film 'No Country for Old Men'?"
+        },
+        "tags": [
+            "quotes",
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
