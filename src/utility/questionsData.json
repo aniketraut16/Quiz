@@ -637,5 +637,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "6488deec50a27f7378a91ddf",
+        "correctAnswer": "Who Wants To Be A Millionaire?",
+        "incorrectAnswers": [
+            "Jeopardy!",
+            "Wheel of Fortune",
+            "The Price Is Right"
+        ],
+        "question": {
+            "text": "What TV game show had a 'Phone-a-Friend' lifeline?"
+        },
+        "tags": [
+            "film_and_tv",
+            "tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
