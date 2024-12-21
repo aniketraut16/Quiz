@@ -552,5 +552,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "625741119da29df7b05f740a",
+        "correctAnswer": "A weary mutant leads a quiet life until a mutant child pursued by scientists comes to him for help.",
+        "incorrectAnswers": [
+            "Born in the stable next door to Christ, a man spends his life being mistaken for a messiah.",
+            "A law enforcement agent pursues four replicants who have returned to Earth to find their creator.",
+            "A boy and his little sister struggle to survive in Japan during World War II."
+        ],
+        "question": {
+            "text": "What is the plot of the movie Logan?"
+        },
+        "tags": [
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
