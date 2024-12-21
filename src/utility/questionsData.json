@@ -807,5 +807,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "622a1c367cc59eab6f95020d",
+        "correctAnswer": "Steven Spielberg",
+        "incorrectAnswers": [
+            "Woody Allen",
+            "Martin Scorsese",
+            "Alfred Hitchcock"
+        ],
+        "question": {
+            "text": "Which director directed Jurassic Park?"
+        },
+        "tags": [
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
