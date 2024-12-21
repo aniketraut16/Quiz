@@ -701,5 +701,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "622a1c347cc59eab6f94fbf4",
+        "correctAnswer": "\"I'm the king of the world!\"",
+        "incorrectAnswers": [
+            "\"That is so fetch.\"",
+            "\"This is the day you will always remember as the day you almost caught Captain Jack Sparrow!\"",
+            "\"Wait a minute, wait a minute. You ain't heard nothin' yet!\""
+        ],
+        "question": {
+            "text": "Which of these quotes is from the film 'Titanic'?"
+        },
+        "tags": [
+            "quotes",
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
