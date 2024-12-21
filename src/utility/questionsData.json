@@ -723,5 +723,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "625740a89da29df7b05f73ee",
+        "correctAnswer": "Gone with the Wind",
+        "incorrectAnswers": [
+            "Downfall",
+            "My Neighbour Totoro",
+            "Up"
+        ],
+        "question": {
+            "text": "Name the movie that matches the following plot summary: 'The daughter of a plantation owner conducts a romance with a roguish profiteer.'"
+        },
+        "tags": [
+            "film"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
