@@ -573,5 +573,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "62573fd79da29df7b05f73b0",
+        "correctAnswer": "Reservoir Dogs",
+        "incorrectAnswers": [
+            "Saving Private Ryan",
+            "The Green Mile",
+            "Gran Torino"
+        ],
+        "question": {
+            "text": "Name the movie that matches the following plot summary: 'When a heist goes wrong, the surviving criminals suspect that one of them is a police informant.'"
+        },
+        "tags": [
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
