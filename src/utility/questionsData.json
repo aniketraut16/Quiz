@@ -594,5 +594,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "62573fe49da29df7b05f73b4",
+        "correctAnswer": "Amélie",
+        "incorrectAnswers": [
+            "Raging Bull",
+            "The Matrix",
+            "Warrior"
+        ],
+        "question": {
+            "text": "Name the movie that matches the following plot summary: 'A girl with her own sense of justice decides to help those around her and discovers love.'"
+        },
+        "tags": [
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
