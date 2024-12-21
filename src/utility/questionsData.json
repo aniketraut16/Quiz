@@ -743,5 +743,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "6257407f9da29df7b05f73e2",
+        "correctAnswer": "After a girl is uprooted from her life, her emotions conflict on how best to navigate a new life.",
+        "incorrectAnswers": [
+            "A slacker seeks restitution for a rug ruined by debt collectors.",
+            "POWs are forced to build a railway, not knowing that allies are planning to destroy it.",
+            "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler."
+        ],
+        "question": {
+            "text": "What is the plot of the movie Inside Out?"
+        },
+        "tags": [
+            "film",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
