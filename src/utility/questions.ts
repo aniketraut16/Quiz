@@ -13,7 +13,7 @@ export type Question = {
   isNiche: boolean;
 };
 
-import { questionsData } from "./questionsData";
+import questionsData from "./questionsData.json";
 
 const getQuestions = (category: string, numberOfQuestions: number) => {
   let filteredQuestions: Question[] = [];
