@@ -850,5 +850,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "622a1c367cc59eab6f950224",
+        "correctAnswer": "Mushrooms ",
+        "incorrectAnswers": [
+            "Garlic",
+            "Onion",
+            "Cabbage"
+        ],
+        "question": {
+            "text": "Which Vegetable Can Be Oyster, Chestnut, or Shitaki?"
+        },
+        "tags": [
+            "food",
+            "general_knowledge",
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
