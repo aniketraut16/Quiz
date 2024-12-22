@@ -893,5 +893,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "6271644a1ba117625baac955",
+        "correctAnswer": "Mama Juana",
+        "incorrectAnswers": [
+            "Gin",
+            "Maotai",
+            "Chibuku"
+        ],
+        "question": {
+            "text": "Which of these is a popular drink in The Dominican Republic?"
+        },
+        "tags": [
+            "drink",
+            "alcohol"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
