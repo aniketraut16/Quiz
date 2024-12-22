@@ -1104,5 +1104,27 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "64824ee57778562fd76a96ac",
+        "correctAnswer": "Lobster",
+        "incorrectAnswers": [
+            "Crab",
+            "Shrimp",
+            "Clam"
+        ],
+        "question": {
+            "text": "Which type of seafood has varieties called Maine and spiny, and turns a vivid red only after it's been cooked?"
+        },
+        "tags": [
+            "seafood",
+            "food_and_drink",
+            "food"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
