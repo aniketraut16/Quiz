@@ -1169,5 +1169,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "622a1c367cc59eab6f9502d3",
+        "correctAnswer": "Vodka, Orange Juice, Galliano ",
+        "incorrectAnswers": [
+            "Gin, Ginger Beer, Lemon Juice",
+            "Rum, Tequila, Tabasco Sauce, Soda",
+            "Champagne, Espresso, Mint"
+        ],
+        "question": {
+            "text": "What Are The Ingredients Of A Harvey Wallbanger Cocktail?"
+        },
+        "tags": [
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
