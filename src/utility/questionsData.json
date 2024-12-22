@@ -1058,5 +1058,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "622a1c3b7cc59eab6f9515c7",
+        "correctAnswer": "Pomegranate ",
+        "incorrectAnswers": [
+            "Mango",
+            "Cranberry",
+            "Raspberry"
+        ],
+        "question": {
+            "text": "From Which Fruit Is Grenadine Obtained?"
+        },
+        "tags": [
+            "food",
+            "drink",
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
