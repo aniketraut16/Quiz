@@ -1189,5 +1189,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "62500675ea7a97fd2e356d2c",
+        "correctAnswer": "Strand pasta",
+        "incorrectAnswers": [
+            "Shaped pasta",
+            "Soup pasta",
+            "Stuffed pasta"
+        ],
+        "question": {
+            "text": "What type of pasta is capellini?"
+        },
+        "tags": [
+            "food",
+            "italy",
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
