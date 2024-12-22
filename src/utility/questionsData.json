@@ -914,5 +914,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "624c60f150d1a5e051325a7e",
+        "correctAnswer": "Pelmeni",
+        "incorrectAnswers": [
+            "Larb",
+            "Biryani",
+            "Khachapuri"
+        ],
+        "question": {
+            "text": "Which of these dishes would you most expect to find in Russia?"
+        },
+        "tags": [
+            "food",
+            "russia",
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
