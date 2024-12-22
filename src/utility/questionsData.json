@@ -1038,5 +1038,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "622a1c3b7cc59eab6f9515b8",
+        "correctAnswer": "In A Clay Oven",
+        "incorrectAnswers": [
+            "On a skewer",
+            "Boiled",
+            "Pureed"
+        ],
+        "question": {
+            "text": "How Are Tandoori Dishes Cooked?"
+        },
+        "tags": [
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
