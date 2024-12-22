@@ -998,5 +998,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "622a1c3b7cc59eab6f951614",
+        "correctAnswer": "Ice cream ",
+        "incorrectAnswers": [
+            "Custard",
+            "Chocolate",
+            "Consommé"
+        ],
+        "question": {
+            "text": "Baked Alaska has meringue on the outside , what does the meringue cover?"
+        },
+        "tags": [
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
