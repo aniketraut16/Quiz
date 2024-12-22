@@ -936,5 +936,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "63a0393dc7d86251f9b65c27",
+        "correctAnswer": "Parmesan",
+        "incorrectAnswers": [
+            "Cheddar",
+            "Gouda",
+            "Feta"
+        ],
+        "question": {
+            "text": "What type of cheese is Parmigiano Reggiano?"
+        },
+        "tags": [
+            "cheese",
+            "food_and_drink",
+            "food"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
