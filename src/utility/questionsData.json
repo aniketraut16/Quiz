@@ -1148,5 +1148,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "627164961ba117625baac967",
+        "correctAnswer": "Canelazo",
+        "incorrectAnswers": [
+            "Kumis",
+            "Rakı",
+            "Tuba"
+        ],
+        "question": {
+            "text": "Which of these drinks would you associate with Equador?"
+        },
+        "tags": [
+            "drink",
+            "alcohol"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
