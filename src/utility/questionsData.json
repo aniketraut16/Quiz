@@ -1211,5 +1211,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "622a1c367cc59eab6f950260",
+        "correctAnswer": "Sweden ",
+        "incorrectAnswers": [
+            "Denmark",
+            "Finland",
+            "Norway"
+        ],
+        "question": {
+            "text": "Which country does one associate with 'Lussekatter'?"
+        },
+        "tags": [
+            "food",
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
