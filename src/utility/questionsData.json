@@ -958,5 +958,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "622a1c367cc59eab6f950248",
+        "correctAnswer": "Apple ",
+        "incorrectAnswers": [
+            "Blackberry",
+            "Strawberry",
+            "Banana"
+        ],
+        "question": {
+            "text": "Which fruit is traditionally covered with toffee at a fairground?"
+        },
+        "tags": [
+            "food"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
