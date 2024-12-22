@@ -1018,5 +1018,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "622a1c3a7cc59eab6f951059",
+        "correctAnswer": "Melon",
+        "incorrectAnswers": [
+            "Grape",
+            "Apple",
+            "Orange"
+        ],
+        "question": {
+            "text": "What Fruit Is A Cantaloupe?"
+        },
+        "tags": [
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
