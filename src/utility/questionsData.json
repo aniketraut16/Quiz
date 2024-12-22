@@ -978,5 +978,25 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "624ab098348a461bfc670686",
+        "correctAnswer": "Central Asia",
+        "incorrectAnswers": [
+            "Southeast Asia",
+            "North America",
+            "Africa"
+        ],
+        "question": {
+            "text": "From which part of the world do apples originate?"
+        },
+        "tags": [
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
