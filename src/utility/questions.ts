@@ -17,8 +17,6 @@ import questionsData from "./questionsData.json";
 
 const getQuestions = (category: string, numberOfQuestions: number) => {
   let filteredQuestions: Question[] = [];
-  console.log(`Request for ${category} questions ${numberOfQuestions} times`);
-
   if (category === "any") {
     filteredQuestions = questionsData;
   } else {
