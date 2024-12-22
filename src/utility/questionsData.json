@@ -1080,5 +1080,29 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "64626214ab138b829b81e9bb",
+        "correctAnswer": "Apples",
+        "incorrectAnswers": [
+            "Bananas",
+            "Cherries",
+            "Oranges"
+        ],
+        "question": {
+            "text": "What fruit allegedly keeps the doctor away if you eat one per day?"
+        },
+        "tags": [
+            "food",
+            "fruit",
+            "food_and_drink",
+            "sayings",
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
