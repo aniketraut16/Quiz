@@ -1126,5 +1126,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "6250066e0d86c8f685d80ee9",
+        "correctAnswer": "Tubular pasta",
+        "incorrectAnswers": [
+            "Strand pasta",
+            "Stuffed pasta",
+            "Shaped pasta"
+        ],
+        "question": {
+            "text": "What type of pasta is cannelloni?"
+        },
+        "tags": [
+            "food",
+            "italy",
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
