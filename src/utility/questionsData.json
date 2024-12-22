@@ -1232,5 +1232,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "624c616bbadf21197f98f77b",
+        "correctAnswer": "Egypt",
+        "incorrectAnswers": [
+            "Cambodia",
+            "Turkey",
+            "Benin"
+        ],
+        "question": {
+            "text": "Where in the world would you most expect to be served Kushari?"
+        },
+        "tags": [
+            "food",
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
