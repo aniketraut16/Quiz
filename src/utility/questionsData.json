@@ -1253,5 +1253,28 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "food_and_drink",
+        "id": "625006a20d86c8f685d80ef1",
+        "correctAnswer": "Fettuccine",
+        "incorrectAnswers": [
+            "Orecchiette",
+            "Lasagne",
+            "Cavatappi"
+        ],
+        "question": {
+            "text": "Which pasta's name means 'Little ribbons'?"
+        },
+        "tags": [
+            "food",
+            "words",
+            "language",
+            "food_and_drink"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
