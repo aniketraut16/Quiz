@@ -1317,5 +1317,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "648ef5e04fe93387161138b8",
+        "correctAnswer": "Red",
+        "incorrectAnswers": [
+            "Yellow",
+            "Blue",
+            "Green"
+        ],
+        "question": {
+            "text": "What color is carmine?"
+        },
+        "tags": [
+            "colours",
+            "art"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
