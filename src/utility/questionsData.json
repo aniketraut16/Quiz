@@ -1296,5 +1296,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c357cc59eab6f94fc6d",
+        "correctAnswer": "Lamprophony",
+        "incorrectAnswers": [
+            "Doodle Sack",
+            "Donkey Engine",
+            "Lackadaisical"
+        ],
+        "question": {
+            "text": "Which word is defined as 'loudness and clarity of enunciation'?"
+        },
+        "tags": [
+            "words",
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
