@@ -1572,5 +1572,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c3a7cc59eab6f9510e3",
+        "correctAnswer": "Oil",
+        "incorrectAnswers": [
+            "Blood",
+            "Sperm",
+            "Water"
+        ],
+        "question": {
+            "text": "A 42 foot sperm whale has about 7 tons of __________ in it."
+        },
+        "tags": [
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
