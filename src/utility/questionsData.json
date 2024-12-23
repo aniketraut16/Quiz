@@ -1674,5 +1674,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c357cc59eab6f94fc86",
+        "correctAnswer": "Erinaceous",
+        "incorrectAnswers": [
+            "Sprunt",
+            "Whippersnapper",
+            "Frankenfood"
+        ],
+        "question": {
+            "text": "Which word is defined as 'of, pertaining to, or resembling a hedgehog'?"
+        },
+        "tags": [
+            "words",
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
