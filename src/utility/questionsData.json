@@ -1592,5 +1592,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "6476390cf05ea6d6f587a189",
+        "correctAnswer": "Itinerary",
+        "incorrectAnswers": [
+            "List",
+            "Voyage",
+            "Menu"
+        ],
+        "question": {
+            "text": "What is the term for a list of places to visit on a journey?"
+        },
+        "tags": [
+            "words"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
