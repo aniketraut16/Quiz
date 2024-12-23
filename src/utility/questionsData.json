@@ -1653,5 +1653,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "645c9f1642ea81e2554c5ee8",
+        "correctAnswer": "Germany",
+        "incorrectAnswers": [
+            "Egypt",
+            "India",
+            "Spain"
+        ],
+        "question": {
+            "text": "Although the Poodle is widely associated with France, in which country is it believed to have originated?"
+        },
+        "tags": [
+            "animals",
+            "dogs"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
