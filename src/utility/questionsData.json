@@ -1401,5 +1401,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "645c9f5342ea81e2554c5f0d",
+        "correctAnswer": "a foot",
+        "incorrectAnswers": [
+            "a hand",
+            "an ear",
+            "a nose"
+        ],
+        "question": {
+            "text": "What body part are you said to have 'in the door' if you're lucky, and 'in the grave' if you're not?"
+        },
+        "tags": [
+            "idioms",
+            "sayings"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
