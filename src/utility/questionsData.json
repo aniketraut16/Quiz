@@ -1549,5 +1549,28 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "6355b7e9e8b368eed3a68236",
+        "correctAnswer": "The d in 'door'",
+        "incorrectAnswers": [
+            "The y in 'yellow'",
+            "The r in 'red'",
+            "The z in 'zoo'"
+        ],
+        "question": {
+            "text": "In phonetics, which of these is an example of a plosive sound?"
+        },
+        "tags": [
+            "language",
+            "linguistics",
+            "general_knowledge",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
