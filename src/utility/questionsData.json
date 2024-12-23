@@ -1467,5 +1467,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c3a7cc59eab6f951030",
+        "correctAnswer": "Northern Crown",
+        "incorrectAnswers": [
+            "Great Light",
+            "Brave Hunter",
+            "Dazzling Forest"
+        ],
+        "question": {
+            "text": "What is the meaning of the name of the constellation Corona Borealis?"
+        },
+        "tags": [
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
