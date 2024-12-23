@@ -1632,5 +1632,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "65056f537a97013de78b5420",
+        "correctAnswer": "Verb",
+        "incorrectAnswers": [
+            "Adjective",
+            "Noun",
+            "Preposition"
+        ],
+        "question": {
+            "text": "What type of word indicates an action?"
+        },
+        "tags": [
+            "language",
+            "words"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
