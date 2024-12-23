@@ -1487,5 +1487,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c357cc59eab6f94fc69",
+        "correctAnswer": "Meldrop",
+        "incorrectAnswers": [
+            "Agastopia",
+            "Blatherskite",
+            "Tittynope"
+        ],
+        "question": {
+            "text": "Which word is defined as 'A drop of mucus at the nose, whether produced by cold or otherwise'?"
+        },
+        "tags": [
+            "words",
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
