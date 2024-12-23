@@ -1612,5 +1612,25 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c3d7cc59eab6f951c6a",
+        "correctAnswer": "Little Jack Horner",
+        "incorrectAnswers": [
+            "Humpty Dumpty",
+            "Jack",
+            "Happy Hungry Harry"
+        ],
+        "question": {
+            "text": "According to the nursery rhyme, who, 'sat in the corner eating a Christmas Pie''?"
+        },
+        "tags": [
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
