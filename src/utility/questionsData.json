@@ -1443,5 +1443,29 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "645c9fc342ea81e2554c5f6c",
+        "correctAnswer": "Duke",
+        "incorrectAnswers": [
+            "Harvard",
+            "Yale",
+            "Princeton"
+        ],
+        "question": {
+            "text": "What is the name of the university formerly known as Trinity College, which was named after a tobacco family that donated millions to the school?"
+        },
+        "tags": [
+            "universities",
+            "college",
+            "previous_names",
+            "education",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
