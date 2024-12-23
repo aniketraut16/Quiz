@@ -1422,5 +1422,26 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "64909c4c58265893a0c86d97",
+        "correctAnswer": "Anachronism",
+        "incorrectAnswers": [
+            "Calvinism",
+            "Cynicism",
+            "Feudalism"
+        ],
+        "question": {
+            "text": "Which -ism is used when something out of its proper historical context?"
+        },
+        "tags": [
+            "words",
+            "vocabulary"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
