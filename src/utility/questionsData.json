@@ -1508,5 +1508,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c357cc59eab6f94fc54",
+        "correctAnswer": "Woebegone",
+        "incorrectAnswers": [
+            "Ratoon",
+            "Dragoman",
+            "Bobsy-die"
+        ],
+        "question": {
+            "text": "Which word is defined as 'sad or miserable in appearance'?"
+        },
+        "tags": [
+            "words",
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
