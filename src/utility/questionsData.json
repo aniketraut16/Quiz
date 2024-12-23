@@ -1338,5 +1338,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "6463394f01d576cfac3aa344",
+        "correctAnswer": "East",
+        "incorrectAnswers": [
+            "North",
+            "West",
+            "South"
+        ],
+        "question": {
+            "text": "What is the meaning of the word 'Vostok' in Russian?"
+        },
+        "tags": [
+            "words",
+            "russia",
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
