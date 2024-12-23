@@ -1529,5 +1529,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c3a7cc59eab6f951063",
+        "correctAnswer": "Experience",
+        "incorrectAnswers": [
+            "Expertise",
+            "Extra Power",
+            "Express"
+        ],
+        "question": {
+            "text": "What Does The XP In The Operating System 'Windows XP' Actually Stand For?"
+        },
+        "tags": [
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
