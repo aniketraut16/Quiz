@@ -1360,5 +1360,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "64a32df9fc63594e30247823",
+        "correctAnswer": "A kiln",
+        "incorrectAnswers": [
+            "An inferno",
+            "A furnace",
+            "A forge"
+        ],
+        "question": {
+            "text": "What is the name of the type of oven used to make pottery?"
+        },
+        "tags": [
+            "arts_and_literature",
+            "ceramics"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
