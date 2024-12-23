@@ -1381,5 +1381,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c367cc59eab6f9500cc",
+        "correctAnswer": "Surfing",
+        "incorrectAnswers": [
+            "Yoga",
+            "Piano Playing",
+            "Ballroom Dancing"
+        ],
+        "question": {
+            "text": "Green Room, Crystal Cathedral & Walking The Dog are all terms from what?"
+        },
+        "tags": [
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
