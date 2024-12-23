@@ -1276,5 +1276,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c367cc59eab6f950323",
+        "correctAnswer": "Charles Manson",
+        "incorrectAnswers": [
+            "Ed Gein",
+            "Ted Bundy",
+            "Jim Jones"
+        ],
+        "question": {
+            "text": "Who was the man convicted of masterminding the 1969 LaBianca-Tate murders?"
+        },
+        "tags": [
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
