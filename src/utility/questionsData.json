@@ -2098,5 +2098,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "623385dd62eaad73716a8c9a",
+        "correctAnswer": "Toronto ",
+        "incorrectAnswers": [
+            "Bordeaux",
+            "Seattle",
+            "Budapest"
+        ],
+        "question": {
+            "text": "What's the most southerly of these cities?"
+        },
+        "tags": [
+            "cities",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
