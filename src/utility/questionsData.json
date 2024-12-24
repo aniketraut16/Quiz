@@ -1906,5 +1906,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "62602d694b176d54800e3c96",
+        "correctAnswer": "China",
+        "incorrectAnswers": [
+            "Philippines",
+            "Malaysia",
+            "Cambodia"
+        ],
+        "question": {
+            "text": "In which country is the city of Shenzhen?"
+        },
+        "tags": [
+            "cities",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
