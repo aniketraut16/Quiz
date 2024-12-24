@@ -2011,5 +2011,28 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "64824eaa7778562fd76a9663",
+        "correctAnswer": "San Francisco Bay",
+        "incorrectAnswers": [
+            "Monterey Bay",
+            "Santa Monica Bay",
+            "San Diego Bay"
+        ],
+        "question": {
+            "text": "What bay is connected to the Pacific Ocean by the three-mile-long Golden Gate Strait?"
+        },
+        "tags": [
+            "bodies_of_water",
+            "bays",
+            "geography",
+            "usa"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
