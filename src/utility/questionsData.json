@@ -1947,5 +1947,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "622a1c3c7cc59eab6f951afd",
+        "correctAnswer": "Romania",
+        "incorrectAnswers": [
+            "Poland",
+            "Ireland",
+            "France"
+        ],
+        "question": {
+            "text": "In Which Modern Day Country Would You Find The Region Known As Transylvania?"
+        },
+        "tags": [
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
