@@ -1927,5 +1927,25 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "62373736cfe13103f55eb59c",
+        "correctAnswer": "Venezuela",
+        "incorrectAnswers": [
+            "Vietnam",
+            "Montenegro",
+            "Vanuatu"
+        ],
+        "question": {
+            "text": "Which region of the world uses '.ve' at the end of its web addresses?"
+        },
+        "tags": [
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
