@@ -2056,5 +2056,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "63b0587b4799123c67712f3d",
+        "correctAnswer": "Vladivostok",
+        "incorrectAnswers": [
+            "Moscow",
+            "Saint Petersburg",
+            "Nizhny Novgorod"
+        ],
+        "question": {
+            "text": "Which of these Russian cities is not located in European Russia?"
+        },
+        "tags": [
+            "russia",
+            "geography",
+            "cities"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
