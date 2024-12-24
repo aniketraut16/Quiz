@@ -1864,5 +1864,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "623b57cffd6c701a9211837f",
+        "correctAnswer": "India",
+        "incorrectAnswers": [
+            "Hungary",
+            "Israel",
+            "Russia"
+        ],
+        "question": {
+            "text": "In which country would you find the UNESCO World Heritage site of Rani-ki-Vav?"
+        },
+        "tags": [
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
