@@ -1801,5 +1801,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "626030a74b176d54800e3d34",
+        "correctAnswer": "Tunisia",
+        "incorrectAnswers": [
+            "Morocco",
+            "Kenya",
+            "Sudan"
+        ],
+        "question": {
+            "text": "Where would you find the city of Tunis?"
+        },
+        "tags": [
+            "cities",
+            "africa",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
