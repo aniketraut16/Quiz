@@ -1718,5 +1718,25 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "622a1c387cc59eab6f950a24",
+        "correctAnswer": "Spain",
+        "incorrectAnswers": [
+            "Morocco",
+            "Andorra",
+            "France"
+        ],
+        "question": {
+            "text": "Which of these countries borders Portugal?"
+        },
+        "tags": [
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
