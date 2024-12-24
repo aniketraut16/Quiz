@@ -1884,5 +1884,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "622a1c357cc59eab6f94fe39",
+        "correctAnswer": "Niagara falls",
+        "incorrectAnswers": [
+            "Lake Huron",
+            "Yosemite",
+            "Appalachian Mountains"
+        ],
+        "question": {
+            "text": "Which site in North America was named after the Mohawk Indian word meaning \"thunder of waters\"?"
+        },
+        "tags": [
+            "words",
+            "usa",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
