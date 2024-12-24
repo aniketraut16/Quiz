@@ -1967,5 +1967,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "62374060cb85f7ce9e949cf8",
+        "correctAnswer": "Addis Ababa",
+        "incorrectAnswers": [
+            "Bishkek",
+            "Chisinau",
+            "Sana'a"
+        ],
+        "question": {
+            "text": "What is the capital city of Ethiopia?"
+        },
+        "tags": [
+            "africa",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
