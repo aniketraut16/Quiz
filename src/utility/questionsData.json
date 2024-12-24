@@ -1759,5 +1759,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "62602df24b176d54800e3cb6",
+        "correctAnswer": "Santiago",
+        "incorrectAnswers": [
+            "Buenos Aires",
+            "San Salvador",
+            "Lima"
+        ],
+        "question": {
+            "text": "Which of these cities is in Chile?"
+        },
+        "tags": [
+            "cities",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
