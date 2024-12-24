@@ -1738,5 +1738,26 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "622a1c387cc59eab6f950acd",
+        "correctAnswer": "Bhutan",
+        "incorrectAnswers": [
+            "Tajikistan",
+            "Kyrgyzstan",
+            "Thailand"
+        ],
+        "question": {
+            "text": "Which of these countries borders India?"
+        },
+        "tags": [
+            "india",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
