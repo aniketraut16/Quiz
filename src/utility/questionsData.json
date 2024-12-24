@@ -1695,5 +1695,28 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "62602d144b176d54800e3c7d",
+        "correctAnswer": "Seoul",
+        "incorrectAnswers": [
+            "Chittagong",
+            "Ulaanbaatar",
+            "Colombo"
+        ],
+        "question": {
+            "text": "Which of these cities is in South Korea?"
+        },
+        "tags": [
+            "cities",
+            "asia",
+            "general_knowledge",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
