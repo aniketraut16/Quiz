@@ -2034,5 +2034,27 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "6260303f4b176d54800e3d17",
+        "correctAnswer": "Dubrovnik",
+        "incorrectAnswers": [
+            "Lisbon",
+            "Geneva",
+            "Amsterdam"
+        ],
+        "question": {
+            "text": "Which of these cities is in Croatia?"
+        },
+        "tags": [
+            "cities",
+            "europe",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
