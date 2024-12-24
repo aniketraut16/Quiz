@@ -1823,5 +1823,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "625e9dee796f721e95543f34",
+        "correctAnswer": "Belarus",
+        "incorrectAnswers": [
+            "Ireland",
+            "Bosnia and Herzegovina",
+            "Nigeria"
+        ],
+        "question": {
+            "text": "Which of these countries has red on its flag?"
+        },
+        "tags": [
+            "flags",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
