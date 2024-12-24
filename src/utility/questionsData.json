@@ -1988,5 +1988,28 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "62602d334b176d54800e3c86",
+        "correctAnswer": "Amsterdam",
+        "incorrectAnswers": [
+            "Rome",
+            "Düsseldorf",
+            "Zürich"
+        ],
+        "question": {
+            "text": "Which of these cities is in Netherlands?"
+        },
+        "tags": [
+            "cities",
+            "europe",
+            "general_knowledge",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
