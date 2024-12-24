@@ -2078,5 +2078,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "6237425dcb85f7ce9e949dc5",
+        "correctAnswer": "South Korea",
+        "incorrectAnswers": [
+            "Vanuatu",
+            "Peru",
+            "Sweden"
+        ],
+        "question": {
+            "text": "Seoul is the capital city of which country?"
+        },
+        "tags": [
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
