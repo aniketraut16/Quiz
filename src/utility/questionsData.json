@@ -1780,5 +1780,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "625e9f90796f721e95543fa6",
+        "correctAnswer": "Yellow",
+        "incorrectAnswers": [
+            "Black",
+            "Maroon",
+            "Orange"
+        ],
+        "question": {
+            "text": "Which of these colors would you find on the flag of Romania?"
+        },
+        "tags": [
+            "flags",
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
