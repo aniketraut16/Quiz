@@ -1844,5 +1844,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "geography",
+        "id": "623740a7cb85f7ce9e949d14",
+        "correctAnswer": "Georgetown",
+        "incorrectAnswers": [
+            "Pristina",
+            "Nouakchott",
+            "Port Vila"
+        ],
+        "question": {
+            "text": "What is the capital city of Guyana?"
+        },
+        "tags": [
+            "geography"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
