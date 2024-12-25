@@ -2159,5 +2159,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c3c7cc59eab6f951925",
+        "correctAnswer": "The California Gold Rush",
+        "incorrectAnswers": [
+            "The American Civil War",
+            "The Cuban Revolution",
+            "The Louisiana Purchase"
+        ],
+        "question": {
+            "text": "What started in 1849 when gold was discovered at Sutter's Mill?"
+        },
+        "tags": [
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
