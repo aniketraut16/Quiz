@@ -2422,5 +2422,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c367cc59eab6f950389",
+        "correctAnswer": "Bill Withers",
+        "incorrectAnswers": [
+            "Michael Jackson",
+            "Luther Vandross",
+            "Marvin Gaye"
+        ],
+        "question": {
+            "text": "Who Had An 80's Hit With The Song 'Just The Two of Us,'? "
+        },
+        "tags": [
+            "1980's",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
