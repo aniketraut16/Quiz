@@ -2312,5 +2312,25 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c3c7cc59eab6f951a70",
+        "correctAnswer": "Mother Teresa",
+        "incorrectAnswers": [
+            "Florence Nightingale",
+            "Marie Curie",
+            "Margaret Thatcher"
+        ],
+        "question": {
+            "text": "Who won the 1979 Nobel Peace Prize for her work among the poor?"
+        },
+        "tags": [
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
