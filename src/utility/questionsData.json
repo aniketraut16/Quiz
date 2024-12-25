@@ -2119,5 +2119,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c3d7cc59eab6f951bed",
+        "correctAnswer": "Julius Caesar",
+        "incorrectAnswers": [
+            "Cleopatra",
+            "Mark Anthony",
+            "Marcus Crassus"
+        ],
+        "question": {
+            "text": "Who was stabbed by Cassius?"
+        },
+        "tags": [
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
