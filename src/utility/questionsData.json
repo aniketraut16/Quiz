@@ -2488,5 +2488,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "62611fe54b176d54800e3d78",
+        "correctAnswer": "1945",
+        "incorrectAnswers": [
+            "1921",
+            "1880",
+            "1972"
+        ],
+        "question": {
+            "text": "When did Alan Turing break the Enigma code?"
+        },
+        "tags": [
+            "events",
+            "technology",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
