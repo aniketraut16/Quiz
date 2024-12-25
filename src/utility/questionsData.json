@@ -2379,5 +2379,28 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c347cc59eab6f94f9c5",
+        "correctAnswer": "George W. Bush",
+        "incorrectAnswers": [
+            "Gerald Ford",
+            "Thomas Jefferson ",
+            "Franklin D. Roosevelt"
+        ],
+        "question": {
+            "text": "Who was the 43rd president of the USA, in term during the period 2001–2009?"
+        },
+        "tags": [
+            "usa",
+            "presidents",
+            "leaders",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
