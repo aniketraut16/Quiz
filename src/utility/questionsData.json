@@ -2243,5 +2243,30 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "62611f2c4b176d54800e3d46",
+        "correctAnswer": "1949",
+        "incorrectAnswers": [
+            "1941",
+            "1970",
+            "1923"
+        ],
+        "question": {
+            "text": "In which year did the communists come into to power in Beijing following the Chinese Civil War?"
+        },
+        "tags": [
+            "events",
+            "revolutions",
+            "wars",
+            "cold_war",
+            "politics",
+            "china"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
