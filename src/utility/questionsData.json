@@ -2443,5 +2443,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c3c7cc59eab6f951940",
+        "correctAnswer": "The Wall Street Crash",
+        "incorrectAnswers": [
+            "The Hindenberg Disaster",
+            "The Assassination of John F. Kennedy",
+            "The Nazi Invasion of Poland"
+        ],
+        "question": {
+            "text": "What notorious event occurred on the 24th October 1929?"
+        },
+        "tags": [
+            "1920's",
+            "events",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
