@@ -2332,5 +2332,28 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c347cc59eab6f94f9d8",
+        "correctAnswer": "Rutherford B. Hayes",
+        "incorrectAnswers": [
+            "Harry S. Truman",
+            "George W. Bush",
+            "George Washington "
+        ],
+        "question": {
+            "text": "Who was the 19th president of the USA, in term during the period 1877–1881?"
+        },
+        "tags": [
+            "presidents",
+            "leaders",
+            "usa",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
