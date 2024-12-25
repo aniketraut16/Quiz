@@ -2223,5 +2223,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c397cc59eab6f950fb4",
+        "correctAnswer": "Richard Nixon",
+        "incorrectAnswers": [
+            "John F Kennedy",
+            "Gerald Ford",
+            "Lyndon B Johnson"
+        ],
+        "question": {
+            "text": "Who made the first phone call to the moon?"
+        },
+        "tags": [
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
