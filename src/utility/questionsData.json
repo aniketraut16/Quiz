@@ -2202,5 +2202,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "65056eea7a97013de78b538d",
+        "correctAnswer": "Feudalism",
+        "incorrectAnswers": [
+            "Polygamy",
+            "Communism",
+            "Oligarchy"
+        ],
+        "question": {
+            "text": "What medieval social system was based on the holding of land in exchange for labor?"
+        },
+        "tags": [
+            "history",
+            "medieval"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
