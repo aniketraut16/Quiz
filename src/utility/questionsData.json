@@ -2289,5 +2289,28 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c347cc59eab6f94f9eb",
+        "correctAnswer": "George Washington ",
+        "incorrectAnswers": [
+            "Chester Arthur",
+            "Ulysses S. Grant",
+            "Millard Fillmore"
+        ],
+        "question": {
+            "text": "Who was the 1st president of the USA, in term during the period 1789–1797?"
+        },
+        "tags": [
+            "presidents",
+            "usa",
+            "firsts",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
