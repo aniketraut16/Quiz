@@ -2355,5 +2355,29 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "645cb1257d263fd5097043a9",
+        "correctAnswer": "Queen Victoria",
+        "incorrectAnswers": [
+            "Queen Elizabeth II",
+            "Queen Mary",
+            "Queen Anne"
+        ],
+        "question": {
+            "text": "Which British queen did not go out in public for three years after the death of her husband in 1861?"
+        },
+        "tags": [
+            "royalty",
+            "monarchs",
+            "queens",
+            "uk",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
