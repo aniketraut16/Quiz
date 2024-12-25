@@ -2268,5 +2268,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "64824ee47778562fd76a96a4",
+        "correctAnswer": "Squire",
+        "incorrectAnswers": [
+            "Tourney",
+            "Knight errant",
+            "Groom"
+        ],
+        "question": {
+            "text": "What was the name given to a knight's student?"
+        },
+        "tags": [
+            "words",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
