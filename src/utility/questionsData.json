@@ -2510,5 +2510,27 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c347cc59eab6f94f9be",
+        "correctAnswer": "William I",
+        "incorrectAnswers": [
+            "Anne",
+            "Richard II",
+            "William II"
+        ],
+        "question": {
+            "text": "Who was the monarch of England during the time period 1066-1087?"
+        },
+        "tags": [
+            "leaders",
+            "people",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
