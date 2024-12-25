@@ -2402,5 +2402,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "65056ee17a97013de78b5381",
+        "correctAnswer": "Kublai Khan",
+        "incorrectAnswers": [
+            "Timor Khan",
+            "Genghis Auguste",
+            "Genghis Xiaoping"
+        ],
+        "question": {
+            "text": "Which of these was a grandson of Ghengis Khan?"
+        },
+        "tags": [
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
