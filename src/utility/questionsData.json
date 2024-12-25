@@ -2465,5 +2465,28 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c3d7cc59eab6f951bd9",
+        "correctAnswer": "13",
+        "incorrectAnswers": [
+            "4",
+            "50",
+            "49"
+        ],
+        "question": {
+            "text": "How Many Colonies Signed The American Declaration Of Independence?"
+        },
+        "tags": [
+            "usa",
+            "us_states",
+            "numbers",
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
