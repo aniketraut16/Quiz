@@ -2532,5 +2532,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "history",
+        "id": "622a1c3c7cc59eab6f951a1a",
+        "correctAnswer": "Marie Antoinette",
+        "incorrectAnswers": [
+            "Eleanor of Aquitaine",
+            "Margaret of Provence",
+            "Maria Theresa"
+        ],
+        "question": {
+            "text": "Which Queen of France was beheaded in 1793?"
+        },
+        "tags": [
+            "history"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
