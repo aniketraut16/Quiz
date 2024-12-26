@@ -2957,5 +2957,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c357cc59eab6f94fef8",
+        "correctAnswer": "Kylie Minogue",
+        "incorrectAnswers": [
+            "Madonna",
+            "Mika",
+            "Hikaru Utada"
+        ],
+        "question": {
+            "text": "Which singer released the song 'Spinning Around'?"
+        },
+        "tags": [
+            "songs",
+            "musicians",
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
