@@ -2807,5 +2807,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c3c7cc59eab6f9517b9",
+        "correctAnswer": "Don McLean",
+        "incorrectAnswers": [
+            "Elvis Presley",
+            "Prince",
+            "Cliff Richard"
+        ],
+        "question": {
+            "text": "Who was the song 'Killing Me Softly' written about?"
+        },
+        "tags": [
+            "songs",
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
