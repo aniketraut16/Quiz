@@ -2745,5 +2745,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c397cc59eab6f950d13",
+        "correctAnswer": "The Beatles",
+        "incorrectAnswers": [
+            "The Kinks",
+            "The Rolling Stones",
+            "Queen"
+        ],
+        "question": {
+            "text": "Which English rock band released the song 'Lady Madonna'?"
+        },
+        "tags": [
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
