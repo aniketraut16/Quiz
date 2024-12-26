@@ -2574,5 +2574,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c357cc59eab6f94fdb2",
+        "correctAnswer": "Pallbearer",
+        "incorrectAnswers": [
+            "Eulogist",
+            "Composer",
+            "Bellringer"
+        ],
+        "question": {
+            "text": "What function did the composer Franz Schubert perform at Beethoven's funeral?"
+        },
+        "tags": [
+            "classical_music",
+            "people",
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
