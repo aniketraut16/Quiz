@@ -2702,5 +2702,28 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "636a5283990390307063f3a1",
+        "correctAnswer": "La Vie En Rose",
+        "incorrectAnswers": [
+            "Girls Just Want to Have Fun",
+            "I Will Always Love You",
+            "Borderline"
+        ],
+        "question": {
+            "text": "Which song, originally recorded by Édith Piaf, was later covered by Grace Jones?"
+        },
+        "tags": [
+            "music",
+            "cover_song",
+            "songs",
+            "musicians"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
