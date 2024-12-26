@@ -2657,5 +2657,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c357cc59eab6f94fd44",
+        "correctAnswer": "Wood & Sound",
+        "incorrectAnswers": [
+            "Multiple & Sound",
+            "Wood & Tone",
+            "Multiple & Tone"
+        ],
+        "question": {
+            "text": "'Xylophone' Is Derived From The Greek Words For What?"
+        },
+        "tags": [
+            "language",
+            "words",
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
