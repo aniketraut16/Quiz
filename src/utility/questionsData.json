@@ -2915,5 +2915,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c357cc59eab6f94fefd",
+        "correctAnswer": "Kylie Minogue",
+        "incorrectAnswers": [
+            "Madonna",
+            "Mika",
+            "Hikaru Utada"
+        ],
+        "question": {
+            "text": "Which musician released the studio album 'Light Years'?"
+        },
+        "tags": [
+            "music_albums",
+            "musicians",
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
