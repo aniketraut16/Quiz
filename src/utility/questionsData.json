@@ -2725,5 +2725,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c397cc59eab6f950dba",
+        "correctAnswer": "Pink Floyd",
+        "incorrectAnswers": [
+            "Wings",
+            "Rudimental",
+            "The Alan Parsons Project"
+        ],
+        "question": {
+            "text": "Which did Roger Waters co-found?"
+        },
+        "tags": [
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
