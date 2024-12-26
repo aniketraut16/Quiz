@@ -2787,5 +2787,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "6266bb16ff7b6ee0496ec77f",
+        "correctAnswer": "Woodwind",
+        "incorrectAnswers": [
+            "Stringed",
+            "Brass",
+            "Percussion"
+        ],
+        "question": {
+            "text": "What type of instrument is a clarinet?"
+        },
+        "tags": [
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
