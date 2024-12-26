@@ -2637,5 +2637,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c367cc59eab6f95021b",
+        "correctAnswer": "Van Morrison ",
+        "incorrectAnswers": [
+            "Megadeth",
+            "Boyz II Men",
+            "Janet Jackson"
+        ],
+        "question": {
+            "text": "Who released the album 'Tupelo honey'?"
+        },
+        "tags": [
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
