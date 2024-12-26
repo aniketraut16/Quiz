@@ -2679,5 +2679,28 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "6461407e4d46e537ca8cd9e8",
+        "correctAnswer": "Carrie Underwood",
+        "incorrectAnswers": [
+            "Taylor Swift",
+            "Miranda Lambert",
+            "Faith Hill"
+        ],
+        "question": {
+            "text": "Which female country singer had hits such as 'Jesus, Take the Wheel' and 'Some Hearts,' and also won 'American Idol'?"
+        },
+        "tags": [
+            "music",
+            "country_music",
+            "musicians",
+            "songs"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
