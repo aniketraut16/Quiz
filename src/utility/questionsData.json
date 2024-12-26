@@ -2765,5 +2765,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c347cc59eab6f94fbb5",
+        "correctAnswer": "\"Pepper\" by Butthole Surfers",
+        "incorrectAnswers": [
+            "\"Yo Home to Bel-Air\"",
+            "\"What I Got\" by Sublime",
+            "\"Let's Go Crazy\" by Prince and The Revolution"
+        ],
+        "question": {
+            "text": "Which song begins with the lyrics: \"Marky got with Sharon / Sharon got Sherice / She was sharing Sharon's outlook / On the topic of disease / Mikey had a facial scar / And Bobby was a racist / They were all in love with dyin' / They were doing it in Texas...\"?"
+        },
+        "tags": [
+            "songs",
+            "lyrics",
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
