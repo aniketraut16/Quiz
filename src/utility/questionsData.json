@@ -2872,5 +2872,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c387cc59eab6f950bb2",
+        "correctAnswer": "Simon & Garfunkel",
+        "incorrectAnswers": [
+            "Soinny & Cher",
+            "Sam & Dave",
+            "The Carpenters"
+        ],
+        "question": {
+            "text": "Which American music duo wrote the song 'El cóndor pasa'?"
+        },
+        "tags": [
+            "songs",
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
