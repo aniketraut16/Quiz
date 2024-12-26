@@ -2552,5 +2552,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "6463391301d576cfac3aa302",
+        "correctAnswer": "Neil Diamond",
+        "incorrectAnswers": [
+            "Elton John",
+            "The Beatles",
+            "The Rolling Stones"
+        ],
+        "question": {
+            "text": "Which musician had a hit in 1967 with \"Kentucky Woman\"?"
+        },
+        "tags": [
+            "songs",
+            "music",
+            "1960's"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
