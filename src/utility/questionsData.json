@@ -2596,5 +2596,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c397cc59eab6f950d63",
+        "correctAnswer": "Maroon 5",
+        "incorrectAnswers": [
+            "Styx",
+            "Oasis",
+            "Nickelback"
+        ],
+        "question": {
+            "text": "Which band was lead by Adam Levine?"
+        },
+        "tags": [
+            "music",
+            "bands"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
