@@ -2852,5 +2852,25 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "638c778201e1a2ef6d1f146d",
+        "correctAnswer": "That's All Right, Mama",
+        "incorrectAnswers": [
+            "Blue Suede Shoes",
+            "Teddy Bear",
+            "Hound Dog"
+        ],
+        "question": {
+            "text": "What was the first Elvis Presley single released?"
+        },
+        "tags": [
+            "elvis_presley"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
