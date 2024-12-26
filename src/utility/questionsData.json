@@ -2937,5 +2937,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c387cc59eab6f950bd1",
+        "correctAnswer": "Lordi",
+        "incorrectAnswers": [
+            "Nightwish",
+            "Poets of the Fall",
+            "Stratovarius"
+        ],
+        "question": {
+            "text": "Which Finnish hard rock band released the album 'Deadache'?"
+        },
+        "tags": [
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
