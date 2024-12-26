@@ -2828,5 +2828,29 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c357cc59eab6f94ff52",
+        "correctAnswer": "Michael Jackson",
+        "incorrectAnswers": [
+            "Nicki Minaj",
+            "Neil Young",
+            "Eric Clapton"
+        ],
+        "question": {
+            "text": "Which American singer, songwriter and dancer released the album 'Bad'?"
+        },
+        "tags": [
+            "music_albums",
+            "musicians",
+            "1980's",
+            "general_knowledge",
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
