@@ -2617,5 +2617,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c397cc59eab6f950bf6",
+        "correctAnswer": "The Doors",
+        "incorrectAnswers": [
+            "Styx",
+            "The Pussycat Dolls",
+            "Three 6 Mafia"
+        ],
+        "question": {
+            "text": "Which American rock band released the album 'Morrison Hotel'?"
+        },
+        "tags": [
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
