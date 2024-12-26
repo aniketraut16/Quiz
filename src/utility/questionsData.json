@@ -2893,5 +2893,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c357cc59eab6f94ff67",
+        "correctAnswer": "Bob Dylan",
+        "incorrectAnswers": [
+            "Neil Young",
+            "Eric Clapton",
+            "Alanis Morissette"
+        ],
+        "question": {
+            "text": "Which musician wrote the song 'Knockin' on Heaven's Door'?"
+        },
+        "tags": [
+            "songs",
+            "musicians",
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
