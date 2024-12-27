@@ -3249,5 +3249,28 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "64b5a8837282fc9eadbafd99",
+        "correctAnswer": "Feedback",
+        "incorrectAnswers": [
+            "Echo",
+            "Resonance",
+            "Interference"
+        ],
+        "question": {
+            "text": "What word refers to distortion caused by a loop in a sound system?"
+        },
+        "tags": [
+            "music",
+            "technology",
+            "science",
+            "words"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
