@@ -3317,5 +3317,28 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "645a6490158db1bd1779f197",
+        "correctAnswer": "Dancing",
+        "incorrectAnswers": [
+            "Buzzing",
+            "Singing",
+            "Whistling"
+        ],
+        "question": {
+            "text": "How does a scout bee communicate to other bees about the location of flowers?"
+        },
+        "tags": [
+            "animals",
+            "insects",
+            "biology",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
