@@ -3041,5 +3041,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "6242cb5ed543524f1b19c927",
+        "correctAnswer": "A stud",
+        "incorrectAnswers": [
+            "A cete",
+            "A paddling",
+            "A troop"
+        ],
+        "question": {
+            "text": "What is the word for a group of mares?"
+        },
+        "tags": [
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
