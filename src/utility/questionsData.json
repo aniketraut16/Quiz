@@ -3386,5 +3386,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "622a1c397cc59eab6f950fc1",
+        "correctAnswer": "Anders Celsius",
+        "incorrectAnswers": [
+            "Celso de Gama",
+            "Max Gradel",
+            "Hoff Zimmerman"
+        ],
+        "question": {
+            "text": "Who invented the centigrade scale?"
+        },
+        "tags": [
+            "people",
+            "inventions",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
