@@ -2979,5 +2979,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "622a1c377cc59eab6f9505a9",
+        "correctAnswer": "The effect of light on chemicals",
+        "incorrectAnswers": [
+            "Animal behaviour",
+            "Ticks and mites",
+            "Fresh water environments"
+        ],
+        "question": {
+            "text": "What is Actinology the study of?"
+        },
+        "tags": [
+            "words",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
