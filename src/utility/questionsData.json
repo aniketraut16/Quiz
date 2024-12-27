@@ -3228,5 +3228,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "622a1c397cc59eab6f950fb6",
+        "correctAnswer": "Gregor Mendel",
+        "incorrectAnswers": [
+            "Alexander Graham Bell",
+            "Thomas Edison",
+            "Charles Darwin"
+        ],
+        "question": {
+            "text": "Who is known as the father of genetics?"
+        },
+        "tags": [
+            "people",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
