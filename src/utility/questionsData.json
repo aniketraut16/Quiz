@@ -3295,5 +3295,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "650570377a97013de78b555b",
+        "correctAnswer": "Java",
+        "incorrectAnswers": [
+            "Flark",
+            "Goku",
+            "Anon"
+        ],
+        "question": {
+            "text": "Which of these is a popular programming language?"
+        },
+        "tags": [
+            "science",
+            "technology",
+            "computing"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
