@@ -3363,5 +3363,28 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "6486be6759bc33d1c362f336",
+        "correctAnswer": "Pileus",
+        "incorrectAnswers": [
+            "Stipe",
+            "Gills",
+            "Rhizome"
+        ],
+        "question": {
+            "text": "What is the circular cap on a mushroom called?"
+        },
+        "tags": [
+            "botany",
+            "plants",
+            "science",
+            "biology"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
