@@ -3021,5 +3021,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "624332ffcfaae40c129613b4",
+        "correctAnswer": "A Cow",
+        "incorrectAnswers": [
+            "A Nanny",
+            "A Soar",
+            "A Leopardess"
+        ],
+        "question": {
+            "text": "What is a female alligator known as?"
+        },
+        "tags": [
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
