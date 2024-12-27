@@ -3205,5 +3205,28 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "63e13a10106de6ffa7d4a788",
+        "correctAnswer": "Clavicle",
+        "incorrectAnswers": [
+            "Femur",
+            "Ulna",
+            "Humerus"
+        ],
+        "question": {
+            "text": "What is the medical name for the collarbone?"
+        },
+        "tags": [
+            "science",
+            "biology",
+            "anatomy",
+            "medicine"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
