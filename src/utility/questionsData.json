@@ -3182,5 +3182,28 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "63e13a2d106de6ffa7d4a7ac",
+        "correctAnswer": "Endocrine glands",
+        "incorrectAnswers": [
+            "Eccrine glands",
+            "Salivary glands",
+            "Mammary glands"
+        ],
+        "question": {
+            "text": "In the human body, what is the name given to glands responsible for producing hormones?"
+        },
+        "tags": [
+            "science",
+            "biology",
+            "anatomy",
+            "medicine"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
