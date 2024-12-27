@@ -3000,5 +3000,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "622a1c377cc59eab6f950544",
+        "correctAnswer": "Race",
+        "incorrectAnswers": [
+            "Parasites",
+            "Ethics",
+            "Rocks"
+        ],
+        "question": {
+            "text": "What is Ethnology the study of?"
+        },
+        "tags": [
+            "science",
+            "words"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
