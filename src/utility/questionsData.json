@@ -3340,5 +3340,28 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "622a1c397cc59eab6f950fa1",
+        "correctAnswer": "Ear",
+        "incorrectAnswers": [
+            "Nose",
+            "Mouth",
+            "Eyes"
+        ],
+        "question": {
+            "text": "With what body part is otology involved?"
+        },
+        "tags": [
+            "medicine",
+            "biology",
+            "words",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
