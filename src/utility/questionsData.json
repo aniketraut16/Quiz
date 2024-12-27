@@ -3099,5 +3099,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "622a1c377cc59eab6f9504fc",
+        "correctAnswer": "weather",
+        "incorrectAnswers": [
+            "animal diseases",
+            "hair and scalp",
+            "human beings killing other human beings"
+        ],
+        "question": {
+            "text": "What is Meteorology the study of?"
+        },
+        "tags": [
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
