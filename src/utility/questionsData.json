@@ -3272,5 +3272,28 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "64e927cd0b0fc0be2ff5aa36",
+        "correctAnswer": "A microwave",
+        "incorrectAnswers": [
+            "A toaster oven",
+            "A convection oven",
+            "A slow cooker"
+        ],
+        "question": {
+            "text": "What type of oven did Percy Spencer invent after a magnetron melted his candy bar?"
+        },
+        "tags": [
+            "inventions",
+            "food_and_drink",
+            "technology",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
