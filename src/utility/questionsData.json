@@ -3159,5 +3159,28 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "646089e9de964ebc39016cb4",
+        "correctAnswer": "Alexander Graham Bell",
+        "incorrectAnswers": [
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Benjamin Franklin"
+        ],
+        "question": {
+            "text": "Who created an audiometer to detect vestigial hearing in the deaf, among other inventions?"
+        },
+        "tags": [
+            "inventions",
+            "people",
+            "history",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
