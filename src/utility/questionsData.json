@@ -3081,5 +3081,23 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "624437af746187c5e7be936b",
+        "correctAnswer": "It is commonly used as a condiment and food preservative.",
+        "incorrectAnswers": [
+            "It is used to relieve pain.",
+            "It is used in thermometers, thermostats, barometers",
+            "It is used in nuclear reactors, as a neutron moderator."
+        ],
+        "question": {
+            "text": "What is the chemical sodium chloride often used for?"
+        },
+        "tags": [],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
