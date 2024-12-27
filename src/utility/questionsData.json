@@ -3139,5 +3139,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "6243340dcfaae40c1296141d",
+        "correctAnswer": "A Bull",
+        "incorrectAnswers": [
+            "A Boar",
+            "A Rooster",
+            "A Drake"
+        ],
+        "question": {
+            "text": "What is the word for a male giraffe?"
+        },
+        "tags": [
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
