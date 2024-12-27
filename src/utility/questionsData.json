@@ -3119,5 +3119,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "64fb5b33717513cb79190402",
+        "correctAnswer": "Control",
+        "incorrectAnswers": [
+            "Test",
+            "Experimental",
+            "Base"
+        ],
+        "question": {
+            "text": "In experiments, what is the name of the group that does not receive the treatment?"
+        },
+        "tags": [
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
