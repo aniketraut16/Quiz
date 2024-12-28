@@ -3647,5 +3647,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "622a1c3b7cc59eab6f951712",
+        "correctAnswer": "Pantomime",
+        "incorrectAnswers": [
+            "Colosseum",
+            "Theatrical",
+            "Cabaret"
+        ],
+        "question": {
+            "text": "Which word comes from a Greek word meaning 'imitator of all'?"
+        },
+        "tags": [
+            "society_and_culture",
+            "words",
+            "language"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
