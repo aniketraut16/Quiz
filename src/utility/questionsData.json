@@ -3408,5 +3408,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "6266e610ff2394bd44dee02e",
+        "correctAnswer": "One",
+        "incorrectAnswers": [
+            "Yellow",
+            "Eight",
+            "Ten"
+        ],
+        "question": {
+            "text": "In Spanish, what is the meaning of the word 'uno'?"
+        },
+        "tags": [
+            "language",
+            "translations",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
