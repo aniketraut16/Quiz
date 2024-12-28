@@ -3803,5 +3803,27 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "6266e602ff2394bd44dee02a",
+        "correctAnswer": "Negro",
+        "incorrectAnswers": [
+            "Nero",
+            "Zwart",
+            "Azul"
+        ],
+        "question": {
+            "text": "In Portuguese, what is the word for for 'black'?"
+        },
+        "tags": [
+            "language",
+            "translations",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
