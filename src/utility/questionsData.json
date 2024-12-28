@@ -3825,5 +3825,29 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "6293ec547f41d6338b96eee8",
+        "correctAnswer": "Umar ibn al-Khattab",
+        "incorrectAnswers": [
+            "Mencius",
+            "Lao Tzu",
+            "Nabil Abou-Harb"
+        ],
+        "question": {
+            "text": "Which of thes people was an influential figure in Sunni Islam?"
+        },
+        "tags": [
+            "people",
+            "history",
+            "society_and_culture",
+            "islam",
+            "religion"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
