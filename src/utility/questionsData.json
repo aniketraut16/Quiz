@@ -3516,5 +3516,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "622a1c357cc59eab6f94fd09",
+        "correctAnswer": "Socrates",
+        "incorrectAnswers": [
+            "Thomas Hobbes",
+            "Bertrand Russell",
+            "Immanuel Kant"
+        ],
+        "question": {
+            "text": "Which philosopher famously said 'The only thing I know is that I know nothing'?"
+        },
+        "tags": [
+            "philosophy",
+            "quotes",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
