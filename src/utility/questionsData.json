@@ -3538,5 +3538,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "622a1c357cc59eab6f94fd08",
+        "correctAnswer": "Søren Kierkegaard",
+        "incorrectAnswers": [
+            "Ludwig Wittgenstein",
+            "Epictetus",
+            "Bertrand Russell"
+        ],
+        "question": {
+            "text": "Which philosopher famously said 'The function of prayer is not to influence God, but rather to change the nature of the one who prays'?"
+        },
+        "tags": [
+            "philosophy",
+            "quotes",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
