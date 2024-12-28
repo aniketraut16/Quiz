@@ -3759,5 +3759,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "63951d0be55fa75b149597b0",
+        "correctAnswer": "Wai",
+        "incorrectAnswers": [
+            "Fist bump",
+            "Handshake",
+            "Khǎawng dtàm"
+        ],
+        "question": {
+            "text": "Which of these gestures  is a commonly used when greeting in Thailand?"
+        },
+        "tags": [
+            "society_and_culture",
+            "thailand",
+            "southeast_asia"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
