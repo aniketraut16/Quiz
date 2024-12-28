@@ -3669,5 +3669,29 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "6293ebdc7f41d6338b96eec5",
+        "correctAnswer": "Moses",
+        "incorrectAnswers": [
+            "Mohammed",
+            "Frodo",
+            "Buddha"
+        ],
+        "question": {
+            "text": "Who of these was a key figure of Jewish/Christian history?"
+        },
+        "tags": [
+            "people",
+            "society_and_culture",
+            "christianity",
+            "judaism",
+            "religion"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
