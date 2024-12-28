@@ -3452,5 +3452,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "6463391d01d576cfac3aa31f",
+        "correctAnswer": "Hansel and Gretel",
+        "incorrectAnswers": [
+            "The Magic Flute",
+            "Little Red Riding Hood",
+            "The Barber of Seville"
+        ],
+        "question": {
+            "text": "In which famous fairy tale do two children fall into the hands of a witch after being abandoned in a forest?"
+        },
+        "tags": [
+            "fairy_tales",
+            "society_and_culture",
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
