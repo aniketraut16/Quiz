@@ -3738,5 +3738,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "622a1c357cc59eab6f94fcbd",
+        "correctAnswer": "Afroasiatic",
+        "incorrectAnswers": [
+            "Sino-Tibetan",
+            "Dravidian",
+            "Japonic"
+        ],
+        "question": {
+            "text": "The language 'Amharic' belongs to which language family?"
+        },
+        "tags": [
+            "language",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
