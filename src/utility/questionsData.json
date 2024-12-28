@@ -3584,5 +3584,25 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "622a1c377cc59eab6f950421",
+        "correctAnswer": "German",
+        "incorrectAnswers": [
+            "English",
+            "Russian",
+            "French"
+        ],
+        "question": {
+            "text": "In what language was the Communist Manifesto written?"
+        },
+        "tags": [
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
