@@ -3496,5 +3496,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "622a1c367cc59eab6f950102",
+        "correctAnswer": "Zeus",
+        "incorrectAnswers": [
+            "Hercules",
+            "Ares",
+            "Hades"
+        ],
+        "question": {
+            "text": "Who is the Greek equivalent of the roman god Jupiter?"
+        },
+        "tags": [
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
