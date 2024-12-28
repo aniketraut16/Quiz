@@ -3560,5 +3560,29 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "6461403f4d46e537ca8cd9a6",
+        "correctAnswer": "Their chains",
+        "incorrectAnswers": [
+            "Their shirts",
+            "Their homes",
+            "Their families"
+        ],
+        "question": {
+            "text": "What do the proletarians \"have nothing to lose but\", according to The Communist Manifesto?"
+        },
+        "tags": [
+            "politics",
+            "socialism",
+            "revolution",
+            "communism",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
