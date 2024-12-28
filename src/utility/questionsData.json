@@ -3693,5 +3693,28 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "6293ebc77f41d6338b96eebf",
+        "correctAnswer": "Christopher Columbus",
+        "incorrectAnswers": [
+            "Napoleon Bonaparte",
+            "Martin Luther",
+            "Marco Polo"
+        ],
+        "question": {
+            "text": "Which of these people was an Italian explorer who landed in America?"
+        },
+        "tags": [
+            "people",
+            "history",
+            "society_and_culture",
+            "exploration"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
