@@ -3781,5 +3781,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "6293ebcb7f41d6338b96eec0",
+        "correctAnswer": "Scientist who discovered The Theory of Relativity.",
+        "incorrectAnswers": [
+            "Inventor of the telephone.",
+            "38th President of the US.",
+            "One of the principal interpreters of Confucianism."
+        ],
+        "question": {
+            "text": "Which of the following describes Albert Einstein?"
+        },
+        "tags": [
+            "people",
+            "society_and_culture",
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
