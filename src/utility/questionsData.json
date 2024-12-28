@@ -3624,5 +3624,28 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "626288134b176d54800e3d86",
+        "correctAnswer": "Quality never goes out of style",
+        "incorrectAnswers": [
+            "It's Style",
+            "Between love and madness lies obsession",
+            "Maybe she's born with it"
+        ],
+        "question": {
+            "text": "What is the marketing slogan of Levis?"
+        },
+        "tags": [
+            "business",
+            "marketing",
+            "fashion",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
