@@ -3604,5 +3604,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "622a1c397cc59eab6f950fb7",
+        "correctAnswer": "Hippocrates",
+        "incorrectAnswers": [
+            "Leonidas",
+            "Euclid",
+            "Archimedes"
+        ],
+        "question": {
+            "text": "Who Is Known As The Father Of Medicine?"
+        },
+        "tags": [
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
