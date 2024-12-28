@@ -3430,5 +3430,27 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "622a1c367cc59eab6f9503d6",
+        "correctAnswer": "Barbie",
+        "incorrectAnswers": [
+            "GI Joe",
+            "Stretch Armstrong",
+            "Beanie Babies"
+        ],
+        "question": {
+            "text": "What Toy Still Hugely Popular Today First Went On Sale In 1959 Costing Just $3"
+        },
+        "tags": [
+            "toys",
+            "1950's",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
