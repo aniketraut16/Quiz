@@ -3716,5 +3716,27 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "62ab33095202de619af28139",
+        "correctAnswer": "Volkswagen",
+        "incorrectAnswers": [
+            "Renault",
+            "Audi",
+            "Toyota"
+        ],
+        "question": {
+            "text": "The Polo is a model of car made by which manufacturer?"
+        },
+        "tags": [
+            "motoring",
+            "business",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
