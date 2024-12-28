@@ -3474,5 +3474,27 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "society_and_culture",
+        "id": "64959827e831b1ab5aa11106",
+        "correctAnswer": "Perjury",
+        "incorrectAnswers": [
+            "Obstruction",
+            "Suborning",
+            "Fraud"
+        ],
+        "question": {
+            "text": "What is the term given to the act of lying in court?"
+        },
+        "tags": [
+            "crime",
+            "law",
+            "society_and_culture"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
