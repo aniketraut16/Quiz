@@ -4192,5 +4192,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c367cc59eab6f9500df",
+        "correctAnswer": "Nintendo Entertainment System",
+        "incorrectAnswers": [
+            "Natural Emitting Screen",
+            "Near Energy Source",
+            "Nebulous Endocrine Station"
+        ],
+        "question": {
+            "text": "What does the acronym \"NES\" stand for?"
+        },
+        "tags": [
+            "initials",
+            "acronyms",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
