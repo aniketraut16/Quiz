@@ -4214,5 +4214,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "62417dd20f96c4efe8d773ed",
+        "correctAnswer": "Washington Nationals",
+        "incorrectAnswers": [
+            "Washington Saints",
+            "Washington Dolphins",
+            "Washington Bucks"
+        ],
+        "question": {
+            "text": "Which of these is a baseball team based in Washington?"
+        },
+        "tags": [
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
