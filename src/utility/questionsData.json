@@ -4064,5 +4064,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c347cc59eab6f94f87e",
+        "correctAnswer": "Athletics",
+        "incorrectAnswers": [
+            "Hockey",
+            "Table tennis",
+            "Gymnastics"
+        ],
+        "question": {
+            "text": "With which sport is Michael Johnson associated?"
+        },
+        "tags": [
+            "people",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
