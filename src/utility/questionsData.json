@@ -3958,5 +3958,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c367cc59eab6f9500b1",
+        "correctAnswer": "Andre Agassi",
+        "incorrectAnswers": [
+            "Roger Federer",
+            "Pete Sampras",
+            "Andy Roddick"
+        ],
+        "question": {
+            "text": "In April 2003 Who Became The Oldest Man To Be Rated No1 In The World Tennis Association Rankings At The Age Of 33?"
+        },
+        "tags": [
+            "people",
+            "tennis",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
