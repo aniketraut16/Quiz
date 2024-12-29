@@ -4023,5 +4023,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c347cc59eab6f94f8bf",
+        "correctAnswer": "Athletics",
+        "incorrectAnswers": [
+            "Hockey",
+            "Rowing",
+            "Track and field"
+        ],
+        "question": {
+            "text": "With which sport is Carl Lewis associated?"
+        },
+        "tags": [
+            "people",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
