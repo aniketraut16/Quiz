@@ -3871,5 +3871,28 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "6496ac48e831b1ab5aa11147",
+        "correctAnswer": "The Indianapolis Colts",
+        "incorrectAnswers": [
+            "The Dallas Cowboys",
+            "The Pittsburgh Steelers",
+            "The Oakland Raiders"
+        ],
+        "question": {
+            "text": "What is the name of the NFL team whose logo features a blue horseshoe?"
+        },
+        "tags": [
+            "football",
+            "american_football",
+            "sport",
+            "logos"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
