@@ -4170,5 +4170,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "65056ec37a97013de78b5357",
+        "correctAnswer": "Black",
+        "incorrectAnswers": [
+            "White",
+            "Red",
+            "Pink"
+        ],
+        "question": {
+            "text": "In snooker, what is the color of the last ball to be potted?"
+        },
+        "tags": [
+            "sport_and_leisure",
+            "sport",
+            "snooker"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
