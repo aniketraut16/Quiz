@@ -4105,5 +4105,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "62399f15af96521963a08718",
+        "correctAnswer": "Brazil",
+        "incorrectAnswers": [
+            "Spain",
+            "Italy",
+            "West Germany"
+        ],
+        "question": {
+            "text": "Which country won the 1962 FIFA World Cup, hosted in Chile?"
+        },
+        "tags": [
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
