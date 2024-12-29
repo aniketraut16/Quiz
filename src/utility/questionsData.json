@@ -4149,5 +4149,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c367cc59eab6f95006e",
+        "correctAnswer": "Croquet",
+        "incorrectAnswers": [
+            "Tennis",
+            "Badminton",
+            "Billiards"
+        ],
+        "question": {
+            "text": "Which Game Makes Use Of Hoops"
+        },
+        "tags": [
+            "games",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
