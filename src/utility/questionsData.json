@@ -4125,5 +4125,29 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c347cc59eab6f94f85c",
+        "correctAnswer": "Football",
+        "incorrectAnswers": [
+            "Swimming",
+            "Tennis",
+            "Golf"
+        ],
+        "question": {
+            "text": "With which sport is Wayne Rooney associated?"
+        },
+        "tags": [
+            "football",
+            "people",
+            "soccer",
+            "uk",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
