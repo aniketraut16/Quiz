@@ -3980,5 +3980,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "63a0397ac7d86251f9b65c65",
+        "correctAnswer": "Monopoly",
+        "incorrectAnswers": [
+            "Life",
+            "Risk",
+            "Chess"
+        ],
+        "question": {
+            "text": "What is the name of the classic board game where players must collect properties and build houses and hotels?"
+        },
+        "tags": [
+            "board_games"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
     }
 ]
