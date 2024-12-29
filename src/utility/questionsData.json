@@ -3849,5 +3849,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c367cc59eab6f95007c",
+        "correctAnswer": "Hill",
+        "incorrectAnswers": [
+            "Schumacher",
+            "Hunt",
+            "Villeneuve"
+        ],
+        "question": {
+            "text": "What Surname Has Been Shared By Three Formula One Champions Of The 20th Century?"
+        },
+        "tags": [
+            "racing",
+            "names",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
