@@ -4044,5 +4044,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "62399ef6af96521963a0870d",
+        "correctAnswer": "Argentina",
+        "incorrectAnswers": [
+            "France",
+            "Brazil",
+            "England"
+        ],
+        "question": {
+            "text": "Which country won the 1986 FIFA World Cup, hosted in Mexico?"
+        },
+        "tags": [
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
