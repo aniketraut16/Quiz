@@ -4234,5 +4234,26 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c347cc59eab6f94f893",
+        "correctAnswer": "Volleyball",
+        "incorrectAnswers": [
+            "Cycling",
+            "Golf",
+            "Rugby Union"
+        ],
+        "question": {
+            "text": "With which sport is Karch Kiraly associated?"
+        },
+        "tags": [
+            "people",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
