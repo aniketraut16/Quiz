@@ -3894,5 +3894,27 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "646339a001d576cfac3aa3a1",
+        "correctAnswer": "The Green Bay Packers",
+        "incorrectAnswers": [
+            "The Dallas Cowboys",
+            "The Pittsburgh Steelers",
+            "The New England Patriots"
+        ],
+        "question": {
+            "text": "Which NFL team, known for its fans' distinctive cheese wedge hats, is also nicknamed \"Cheeseheads\"?"
+        },
+        "tags": [
+            "football",
+            "american_football",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
