@@ -4000,5 +4000,28 @@
         "difficulty": "easy",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "62399f29af96521963a08720",
+        "correctAnswer": "Italy",
+        "incorrectAnswers": [
+            "Germany",
+            "Spain",
+            "Brazil"
+        ],
+        "question": {
+            "text": "Which country won the 1938 FIFA World Cup, hosted in France?"
+        },
+        "tags": [
+            "football",
+            "soccer",
+            "world_cup",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
