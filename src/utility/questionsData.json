@@ -4085,5 +4085,25 @@
         "difficulty": "medium",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "6384b43c83dddfb71ee5e368",
+        "correctAnswer": "The Grand National",
+        "incorrectAnswers": [
+            "The Africa Cup of Nations",
+            "The World Cup Sevens",
+            "The Copa América"
+        ],
+        "question": {
+            "text": "Which of these is a competition in Horse Racing?"
+        },
+        "tags": [
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
