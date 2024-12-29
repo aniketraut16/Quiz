@@ -4255,5 +4255,27 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c347cc59eab6f94f884",
+        "correctAnswer": "Swimming",
+        "incorrectAnswers": [
+            "Cycling",
+            "Rowing",
+            "Track and field"
+        ],
+        "question": {
+            "text": "With which sport is Mark Spitz associated?"
+        },
+        "tags": [
+            "olympics",
+            "people",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
     }
 ]
