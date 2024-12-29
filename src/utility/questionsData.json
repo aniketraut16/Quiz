@@ -3937,5 +3937,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c347cc59eab6f94f888",
+        "correctAnswer": "Tennis",
+        "incorrectAnswers": [
+            "Motor Racing",
+            "Swimming",
+            "Table tennis"
+        ],
+        "question": {
+            "text": "With which sport is Monica Seles associated?"
+        },
+        "tags": [
+            "people",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
