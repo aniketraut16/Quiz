@@ -3916,5 +3916,26 @@
         "difficulty": "hard",
         "regions": [],
         "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c347cc59eab6f94f85d",
+        "correctAnswer": "Track and field",
+        "incorrectAnswers": [
+            "Tennis",
+            "Figure skating",
+            "Swimming"
+        ],
+        "question": {
+            "text": "With which sport is Wilma Rudolph associated?"
+        },
+        "tags": [
+            "people",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
     }
 ]
