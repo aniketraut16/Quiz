@@ -75,7 +75,7 @@ export default function ResultsScreen({
 
             <button
                 onClick={onRestart}
-                className="bg-gold text-[#0a1e40] py-3 px-8 rounded-md hover:bg-yellow-400 transition duration-300 font-bold text-lg mt-4 shadow-md"
+                className="bg-gradient-to-r from-yellow-300 to-yellow-400 text-[#0a1e40] py-3 px-8 rounded-md hover:from-yellow-400 hover:to-yellow-500 transition duration-300 font-bold text-lg mt-4 shadow-md"
             >
                 🔄 Play Again
             </button>
