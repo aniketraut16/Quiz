@@ -1,6 +1,6 @@
 # Quiz App
 
-Welcome to the Quiz App! This application provides an engaging quiz experience with a Kaun Banega Crorepati (KBC) theme, complete with a prize ladder and a timer for each question.
+Welcome to the Quiz App! This application provides an engaging quiz experience with a Kaun Banega Crorepati theme, complete with a prize ladder and a timer for each question.
 
 ## Features
 
